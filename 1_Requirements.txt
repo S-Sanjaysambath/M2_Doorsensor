@@ -1,0 +1,42 @@
+     
+
+     REQUIREMENTS
+
+      ADVANTAGE:
+           
+             1)The automatic door donot need any physical effort to open or close.
+
+             2) Automatic gates are used durable ,strong and can be available in customized sizes.
+
+             3) It is very convenient to enter and leave the automatic  door.
+
+             4) Low cost.
+          
+             5) Easy to use.
+
+             6) Power consumption is less. 
+
+
+      DISADVANTAGE:
+
+             1) Power failure causes inconvenience.
+
+             2) Cannot used for security purposes.
+
+
+    FUTURE DEVELOPMENT:
+
+             1) Microprocessor-based electronics in refrigerators and freezers allow better control over various functions,
+
+                 allowing designs to better enable energy efficiency.
+
+            2) Refrigerators equipped with a microprocessor control unit are compatible with the use of noncontact-type sensing 
+                      
+                technologies such as reed switches/sensors and Hall effect sensors. 
+
+
+
+
+    
+
+                                                     
