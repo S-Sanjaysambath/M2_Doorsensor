@@ -1,0 +1,9 @@
+      
+
+      ABSTRACT   
+     
+           I have deigned project entitled "DOORSENSOR" by using masking concept which is not affect the status of others pins.
+           Here we describe the design and implementation of automatic controller to the door. The door opens when they led blink 
+           is on.  then the door close automatically the led is off. In the project I use atmega328 as a controcontroller.the 
+            output siggnal of microcontroller are connected to the switch and voltage switch. The interrupt signal can be used 
+            to stop power to votage switch during locked condition. 
